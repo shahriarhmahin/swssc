@@ -1,0 +1,275 @@
+body{
+	
+	background-image:url(worldmap.gif);
+	background-size:cover;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-attachment:fixed
+	
+	
+}
+header{background:#f99e18fa;height:300px;width:100%}
+.mainlogo {width:100px;display: inline-block;}
+.mainlogo img{
+    width: 100px;
+    border-radius: 6px;
+    height: 100px;
+}
+.schooltitle {width:520px;display: inline-block;}
+.schooltitle h4{
+	font-size:15px;
+	letter-spacing:0.1px;
+	padding-bottom: 0;
+	margin-bottom: 0;
+}.schooltitle h1{
+	font-size:25px;
+	letter-spacing:0.1px;
+	margin-bottom: 0px;
+}.schooltitle h5{
+	font-size:16px;
+	letter-spacing:0.1px;
+	margin-bottom: 0px;
+}
+.col-sm-1half{
+    position: relative;
+    min-height: 1px;
+
+	padding-left:15px
+
+}
+@media (min-width: 768px) {
+    
+   .col-sm-1shalf {
+        width: 10.56666667%;
+    
+}
+
+
+.col-md-41{
+    position: relative;
+    min-height: 1px;
+	
+
+}
+@media (min-width: 768px) {
+    
+   .col-md-41 {
+        width: 39.333333%
+    
+}
+
+
+
+.schooltitle{margin-top:25px}
+.socialnav{height:20px}
+
+
+
+.socialadressnav{font-size:13px;margin-left: 105px;}
+.socialadressnav i{margin-right:8px}
+.socialadressnav span{margin-right:8px}
+
+
+.socialadressnavicon{
+    background: transparent;
+    margin-top: 18px;
+    margin-left: 286px;
+}
+.socialadressnavicon i{
+    margin-right: 10px;
+    font-size: 18px;
+    color: #00213C;
+}
+    
+
+
+
+.navigation{float:left}
+.navul li{border:2px solid black;padding: 0px 39.5px;margin-left: -15px;margin-right: 20.5px;color:black;background: #00000045;}
+.elementofnav{color:black !important;font-size:16px!important;}
+.mainnav{margin-top:20px}
+.navul li a{font-weight:bold !important;}
+.nav-link{color:black}
+
+.homenav{background:black!important;color:white !important;font-size:16px!important;}
+
+.navelement a{
+    padding: 9px 57px ;
+    font-size: 14px;
+    letter-spacing: 0.7px;
+    text-decoration: none;
+    color: #333;
+    font-weight: 500;
+    margin-left: -19px;
+    margin-right: 0px;
+    border: 2px solid black;
+    text-transform: uppercase;
+}
+
+.NoticeWrapper marquee{
+	
+margin-top:20px;
+	
+background: black;
+	
+font-size:16px;
+	
+color: white;
+}
+.NoticeWrapper{width:1078px}
+
+.noticeTitle{background:green;margin:0;padding:0}
+
+
+
+.featuredSection{
+	
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(Swssc.jpg);
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	min-height:600px
+	
+	
+}
+.featuredText h1{font-size:50px;color:#fff;font-weight:600}
+
+.featuredText{width:810px;margin-top:125px;background: transparent;opacity:1;transition:1s ease;}
+.menubtn123{cursor:pointer}
+
+.featuredText2{opacity:0;}
+
+.mainnav{margin-top:0px !important}
+.contactButton {
+    padding: 8px 20px !important;
+    color: #000 !important;
+    font-family: century gothic;
+    background-color: #f99f1c !important;
+    border-color: #f99f1c !important;
+    font-weight: 700;
+    font-size: 15px;
+    border-radius: 15px;
+    letter-spacing: 0.6px;transition:1s ease;margin-top:10px
+}
+
+.contactButton:hover{background:black!important;border-color:black!important;color:white!important;text-decoration:none !important}
+.contactusbtn{margin-top:20px}
+
+.btnshadow1{box-shadow:6px 2px 20px 1px}
+.sliderFeature{background: linear-gradient(#0000006b,#ff9700);height:550px;}
+.allpicturemaincontainer {
+    width: 1000px;
+    margin-left: 70px;
+    margin-top: 25px;
+}
+.allpicturecontainer{width:100% !important;position:relative !important;transition:1s ease}
+.pic1{position: !important;display:none;transition:1s ease}
+.pic2{position:absolute !important;display:none;transition:1s ease}
+.pic3{position:absolute !important;display:none;transition:1s ease}
+.pic1 img{width:100%;height:500px;transition:1s ease}
+.pic2 img{width:100%;height:500px;transition:1s ease}
+.pic3 img{width:100%;height:500px;transition:1s ease}
+
+
+
+.leftArrow{font-size:30px;cursor:pointer;}
+.RightArrow {font-size:30px;
+    position: relative;cursor:pointer;
+    left: 902px;
+}
+.visibleimg{display:block;transition:1s ease}
+.sliderbtnswrapper{
+    /* margin-bottom: 20px; */
+    position: relative;
+    top: 250px;
+    left: 20px;
+}
+.owl-carousel{}
+.owl-carousel img{height:200px;width:300px}
+.fa-stack-1x, .fa-stack-2x {
+    position: absolute;
+    left: 0px;
+    width: 100%;
+    text-align: center;
+    top: -50px!important;
+}
+
+
+
+
+
+
+.facilitesSection{background:#F5F7FA;height:400px;}
+.facilitesTitle {
+   
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+.facilitesTitle h1{padding-top:10px;}
+
+
+.facilites_text{text-align:center;padding-bottom:10px}
+.facilitesicon{text-align:center;font-size:44px;padding-top:10px;}
+.facilitesBox{background: #fff;}
+
+
+
+
+/* semifooterarea*/
+
+.semifooter{height:200px;background:#fff}
+#telephn{transform:rotate(90deg)}
+
+.semifooterbox{background:#fff; margin-top: 20px; margin-bottom: 20px;}
+.semifooterbox1{background:#fff; margin-top: 20px; margin-bottom: 20px;border-right:1px solid #00000042}
+.semifooterbox2{background:#fff; margin-top: 20px; margin-bottom: 20px;border-right:1px solid #00000042}
+.semifootericon{
+    text-align: center;
+   
+    font-size: 28px;
+    padding-top: 20px;
+    }
+.semifootertext{
+    font-size: 22px;
+    text-align: center;
+    font-family: aria;
+    padding-top: 28px;
+    letter-spacing: 4px;
+    padding-bottom: 33px;
+}
+
+
+/* FOOTER AREA*/
+
+footer {
+    height: 60px;
+    background: #ddd;
+    border-top: 1px solid #00000042;
+}
+
+
+.developercredit{text-align:center;padding-top:13px;padding-bottom: 0;margin-bottom: 0;}
+.helplinenumber{text-align:center;padding-top: 0px;font-size: 12px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

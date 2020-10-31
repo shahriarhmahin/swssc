@@ -1,0 +1,1375 @@
+
+@media screen and (min-width: 280px) {	
+
+footer {
+    height: 60px;
+    background: #ddd;
+    border-top: 1px solid #00000042;
+}
+
+
+.developercredit{text-align:center;padding-top:13px;padding-bottom: 0;margin-bottom: 0;}
+.helplinenumber{text-align:center;padding-top: 0px;font-size: 12px;}
+
+	.semifooter{height:200px;background:#fff}
+#telephn{transform:rotate(90deg)}
+
+.semifooterbox{background:#fff; margin-top: 20px; margin-bottom: 20px;}
+.semifooterbox1{background:#fff; margin-top: 20px; margin-bottom: 20px;border-right:1px solid #00000042}
+.semifooterbox2{background:#fff; margin-top: 20px; margin-bottom: 20px;border-right:1px solid #00000042}
+.semifootericon{
+    text-align: center;
+   
+    font-size: 28px;
+    padding-top: 20px;
+    }
+.semifootertext{
+    font-size: 22px;
+    text-align: center;
+    font-family: aria;
+    padding-top: 28px;
+    letter-spacing: 4px;
+    padding-bottom: 33px;
+}
+
+
+	
+	.sliderFeature{background: #00000038;height:485px;}
+	
+	.facilites_text{text-align:center;padding-bottom:10px}
+.facilitesicon{text-align:center;font-size:44px;padding-top:10px;}
+.facilitesBox{background: #e6e6e6;margin-bottom: 25px;margin-top: 25px;border: 1px solid #ddd;}
+	
+	
+	.facilitesSection{background: #F5F7FA;height: 1465px;}
+.facilitesTitle {
+   
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+.facilitesTitle h1{padding-top:10px;}
+	
+	
+	.owl-carousel {
+    margin-top: 59px;
+}
+		.owl-carousel img{height:200px;width:300px}
+.fa-stack-1x, .fa-stack-2x {
+    position: absolute;
+    left: 0px;
+    width: 100%;
+    text-align: center;
+    top: -50px!important;
+}
+	
+	.contactButton {
+    padding: 6px 11px !important;
+    color: #000 !important;
+    font-family: century gothic;
+    background-color: #f99f1c !important;
+    border-color: #f99f1c !important;
+    font-weight: 700;
+    font-size: 9px;
+    border-radius: 15px;
+    letter-spacing: 0.6px;
+    transition: 1s ease;
+    margin-top: 10px;
+}
+	
+	.contactButton:hover{background:black!important;border-color:black!important;color:white!important;text-decoration:none !important}
+.contactusbtn{margin-top:14px}
+	
+	
+	
+	#cssmenu .button .fa-bars {border-bottom:none;
+border-top:none;
+border-right:none;
+border-left:none}
+	
+	
+	.featuredText2{opacity:0}
+	.menubtn123{display:block}
+	
+		.NoticeWrapper marquee {
+    margin-top: 0px;
+    background: black;
+    /* height: 20px; */
+    font-size: 11px;
+    color: white;
+}
+.NoticeWrapper {
+    width: 327px;
+    margin-top: 0px;
+}
+	
+.socialadressnavicon {
+    background: transparent;
+    margin-top: -20px;
+    margin-left: 270px;
+}
+
+.socialadressnavicon i {
+    margin-right: 9px;
+    font-size: 13px;
+    color: #00213C;
+    display: inline;
+}
+	
+	
+	
+	
+	.socialadressnav{font-size:12px;margin-left: 0px;}
+.schooltitle {width:520px;display: inline-block;margin-top:8px}
+.schooltitle h1{
+	font-size:16px;
+	letter-spacing:0.1px;
+	margin-bottom: 0px;
+}
+	.schooltitle h4{
+	font-size:12px;
+	letter-spacing:0.1px;
+	padding-bottom: 0;
+	margin-bottom: 0;
+}
+	.schooltitle h5 {
+    font-size: 12px;
+    letter-spacing: 0.1px;
+    margin-top: 3px;
+    margin-bottom: 0px;
+}
+
+
+}
+@media screen and (min-width: 320px) {	
+
+footer {
+    margin-top: 500px;
+    height: 60px;
+    background: #ddd;
+    border-top: 1px solid #00000042;
+}
+
+
+.developercredit{text-align:center;padding-top:13px;font-size: 14px;padding-bottom: 0;margin-bottom: 0;}
+.helplinenumber{text-align:center;padding-top: 0px;font-size: 12px;}
+
+
+	.semifooter{height:200px;background: transparent;}
+#telephn{transform:rotate(90deg)}
+
+.semifooterbox{background:#fff; margin-top: 20px; margin-bottom: 20px;}
+.semifooterbox1{background:#fff; margin-top: 20px; margin-bottom: 20px;border-right:1px solid #00000042}
+.semifooterbox2{background:#fff; margin-top: 20px; margin-bottom: 20px;border-right:1px solid #00000042}
+.semifootericon{
+    text-align: center;
+   
+    font-size: 28px;
+    padding-top: 20px;
+    }
+.semifootertext{
+    font-size: 22px;
+    text-align: center;
+    font-family: aria;
+    padding-top: 28px;
+    letter-spacing: 4px;
+    padding-bottom: 33px;
+}
+
+
+	
+	.sliderFeature{background: #00000038;height:485px;}
+	
+	.facilites_text{text-align:center;padding-bottom:10px}
+.facilitesicon{text-align:center;font-size:44px;padding-top:10px;}
+.facilitesBox{background: #e6e6e6;margin-bottom: 25px;margin-top: 25px;border: 1px solid #ddd;}
+	
+	
+	.facilitesSection{background: #F5F7FA;height: 1465px;}
+.facilitesTitle {
+   
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+.facilitesTitle h1{padding-top:10px;}
+	
+	
+	
+	.owl-carousel {
+    margin-top: 59px;
+}
+		.owl-carousel img{height:200px;width:300px}
+.fa-stack-1x, .fa-stack-2x {
+    position: absolute;
+    left: 0px;
+    width: 100%;
+    text-align: center;
+    top: -50px!important;
+}
+	
+	
+.contactButton {
+    padding: 5px 11px !important;
+    color: #000 !important;
+    font-family: century gothic;
+    background-color: #f99f1c !important;
+    border-color: #f99f1c !important;
+    font-weight: 700;
+    font-size: 9px;
+    border-radius: 15px;
+    letter-spacing: 0.6px;
+    transition: 1s ease;
+    margin-top: 10px;
+}
+
+.contactButton:hover{background:black!important;border-color:black!important;color:white!important;text-decoration:none !important}
+.contactusbtn{margin-top:14px}
+	
+	
+	
+	#cssmenu .button .fa-bars {border-bottom:none;
+border-top:none;
+border-right:none;
+border-left:none}
+	
+	
+	
+	
+	
+	
+	
+	
+	.featuredText2{opacity:0}
+	
+	.menubtn123{display:block}
+	.featuredSection{
+	
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(Swssc.jpg);
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	min-height:200px
+	
+	
+}
+		.featuredText h1{font-size:14px;color:#fff;font-weight:600}
+
+.featuredText {
+    width: 225px;
+    margin-top: 55px;
+    background: transparent;
+}
+	
+	
+	
+	.NoticeWrapper marquee {
+    margin-top: 0px;
+    background: black;
+    /* height: 20px; */
+    font-size: 11px;
+    color: white;
+}
+.NoticeWrapper {
+    width: 327px;
+    margin-top: 0px;
+}	
+	
+	
+.socialadressnavicon {
+    background: transparent;
+    margin-top: -20px;
+    margin-left: 270px;
+}
+
+.socialadressnavicon i {
+    margin-right: 9px;
+    font-size: 13px;
+    color: #00213C;
+    display: inline;
+}
+	
+	
+	
+	
+	.socialadressnav{font-size:12px;margin-left: 0px;margin-top:-10px}
+.schooltitle {width:520px;display: inline-block;margin-top:8px}
+.schooltitle h1{
+	font-size:16px;
+	letter-spacing:0.1px;
+	margin-bottom: 0px;
+}
+	.schooltitle h4{
+	font-size:12px;
+	letter-spacing:0.1px;
+	padding-bottom: 0;
+	margin-bottom: 0;
+}
+	.schooltitle h5 {
+    font-size: 12px;
+    letter-spacing: 0.1px;
+    margin-top: 3px;
+    margin-bottom: 0px;
+}
+
+
+}
+@media screen and (min-width: 400px) {	
+footer {
+    height: 60px;
+    background: #ddd;
+    border-top: 1px solid #00000042;
+}
+
+
+.developercredit{text-align:center;padding-top:13px;padding-bottom: 0;margin-bottom: 0;}
+.helplinenumber{text-align:center;padding-top: 0px;font-size: 12px;}
+
+
+
+	.semifooter{height:200px;background:#fff}
+#telephn{transform:rotate(90deg)}
+
+.semifooterbox{background:#fff; margin-top: 20px; margin-bottom: 20px;}
+.semifooterbox1{background:#fff; margin-top: 20px; margin-bottom: 20px;border-right:1px solid #00000042}
+.semifooterbox2{background:#fff; margin-top: 20px; margin-bottom: 20px;border-right:1px solid #00000042}
+.semifootericon{
+    text-align: center;
+   
+    font-size: 28px;
+    padding-top: 20px;
+    }
+.semifootertext{
+    font-size: 17px;
+    text-align: center;
+    font-family: aria;
+    padding-top: 28px;
+    letter-spacing: 4px;
+    padding-bottom: 33px;
+}
+
+
+	
+	.sliderFeature{background: #00000038;height:485px;}
+	.facilites_text{text-align:center;padding-bottom:10px}
+.facilitesicon{text-align:center;font-size:44px;padding-top:10px;}
+.facilitesBox{background: #e6e6e6;margin-top: 25px;border: 1px solid #ddd;margin-bottom: 25px;}
+	
+	
+	
+	.owl-carousel {
+    margin-top: 59px;
+}
+		.owl-carousel img{height:200px;width:300px}
+.fa-stack-1x, .fa-stack-2x {
+    position: absolute;
+    left: 0px;
+    width: 100%;
+    text-align: center;
+    top: -50px!important;
+}
+	
+	
+	#cssmenu .button .fa-bars {border-bottom:none;
+border-top:none;
+border-right:none;
+border-left:none}
+	
+	
+	
+	.featuredText2{opacity:0}
+	.menubtn123{display:block}
+	
+	.NoticeWrapper marquee {
+    margin-top: 0px;
+    background: black;
+    /* height: 20px; */
+    font-size: 11px;
+    color: white;
+}
+.NoticeWrapper {
+    width: 365px;
+    margin-top: 0px;
+}
+	
+}
+
+@media screen and (min-width: 480px) {
+	footer {
+    height: 60px;
+    margin-top: 400px;
+    background: #ddd;
+    border-top: 1px solid #00000042;
+}
+
+
+.developercredit{text-align:center;padding-top:13px;padding-bottom: 0;margin-bottom: 0;}
+.helplinenumber{text-align:center;padding-top: 0px;font-size: 12px;}
+	
+	
+	.sliderFeature{background: #00000038;height:485px;}
+	.facilites_text{text-align:center;padding-bottom:10px}
+.facilitesicon{text-align:center;font-size:44px;padding-top:10px;}
+.facilitesBox{background: #e6e6e6;margin-bottom: 25px;margin-top: 25px;border: 1px solid #ddd;}
+	
+	
+	
+	.facilitesSection{background: #F5F7FA;height: 1450px;}
+.facilitesTitle {
+   
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+.facilitesTitle h1{padding-top:10px;}
+	
+	
+	.owl-carousel {
+    margin-top: 59px;
+}
+		.owl-carousel img{height:200px;width:300px}
+.fa-stack-1x, .fa-stack-2x {
+    position: absolute;
+    left: 0px;
+    width: 100%;
+    text-align: center;
+    top: -50px!important;
+}
+			.sliderFeature{background: #00000038;height:390px!important;}
+	
+			.pic1 img{width:100%!important;height:340px!important;transition:1s ease!important}
+.pic2 img{width:100%!important;height:340px!important;transition:1s ease!important}
+.pic3 img{width:100%!important;height:340px!important;transition:1s ease!important}
+	
+	
+	.allpicturemaincontainer {
+    width: 550px!important;
+    margin-left: 70px!important;
+    margin-top: 25px!important;
+}
+	
+	.contactButton {
+    padding: 6.5px 16px !important;
+    color: #000 !important;
+    font-family: century gothic;
+    background-color: #f99f1c !important;
+    border-color: #f99f1c !important;
+    font-weight: 700;
+    font-size: 10px;
+    border-radius: 15px;
+    letter-spacing: 0.6px;transition:1s ease;margin-top:10px
+}
+
+.contactButton:hover{background:black!important;border-color:black!important;color:white!important;text-decoration:none !important}
+.contactusbtn{margin-top:17px}
+	
+	
+	
+	
+	
+	
+	
+	#cssmenu .button .fa-bars {border-bottom:none;
+border-top:none;
+border-right:none;
+border-left:none}
+	
+	
+
+	
+	
+	.featuredText2{opacity:0}
+	.menubtn123{display:block}
+	
+	
+			.featuredSection{
+	
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(Swssc.jpg);
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	min-height:300px
+	
+	
+}
+		.featuredText h1{font-size:25px;color:#fff;font-weight:600}
+
+.featuredText{width:420px;margin-top:125px;background: transparent;}
+	
+	
+.NoticeWrapper marquee {
+    margin-top: 0px;
+    background: black;
+    /* height: 20px; */
+    font-size: 12px;
+    color: white;
+}
+.NoticeWrapper {
+    width: 450px;
+    margin-top: 0px;
+}	
+	
+	
+	
+	
+		.socialadressnavicon {
+    background: transparent;
+    margin-top: -20px;
+    margin-left: 315px;
+}
+
+.socialadressnavicon i {
+    margin-right: 10px;
+    font-size: 15px;
+    color: #00213C;
+    display: inline;
+}
+	
+	
+	
+	.schooltitle {width:520px;display: inline-block;margin-top:8px}
+		.schooltitle h4{
+	font-size:12px;
+	letter-spacing:0.1px;
+	padding-bottom: 0;
+	margin-bottom: 0;
+}
+	.schooltitle h1{
+	font-size:16px;
+	letter-spacing:0.1px;
+	margin-bottom: 0px;
+}
+		.schooltitle h5 {
+    font-size: 14px;
+    letter-spacing: 0.1px;
+    margin-top: 3px;
+    margin-bottom: 0px;
+}
+	
+
+}
+@media screen and (min-width: 576px) {
+		footer {
+    height: 60px;
+    margin-top: 450px;
+    background: #ddd;
+    border-top: 1px solid #00000042;
+}
+
+
+.developercredit{text-align:center;padding-top:13px;padding-bottom: 0;margin-bottom: 0;}
+.helplinenumber{text-align:center;padding-top: 0px;font-size: 12px;}
+		
+		
+		
+		
+	.semifooter{height:200px;background:#fff}
+#telephn{transform:rotate(90deg)}
+
+.semifooterbox{background:#fff; margin-top: 20px; margin-bottom: 20px;}
+.semifooterbox1{background:#fff; margin-top: 20px; margin-bottom: 20px;border-right:1px solid #00000042}
+.semifooterbox2{background:#fff; margin-top: 20px; margin-bottom: 20px;border-right:1px solid #00000042}
+.semifootericon{
+    text-align: center;
+   
+    font-size: 28px;
+    padding-top: 20px;
+    }
+.semifootertext{
+    font-size: 22px;
+    text-align: center;
+    font-family: aria;
+    padding-top: 28px;
+    letter-spacing: 4px;
+    padding-bottom: 33px;
+}
+
+
+	
+	.sliderFeature{background: #00000038;height:485px;}
+	.facilites_text{text-align:center;padding-bottom:10px}
+.facilitesicon{text-align:center;font-size:44px;padding-top:10px;}
+.facilitesBox{background: #e6e6e6;border: 1px solid #ddd;margin-bottom: 25px;margin-top: 25px;}
+	
+	
+	.facilitesSection{background: #F5F7FA;height: 1450px;}
+.facilitesTitle {
+   
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+.facilitesTitle h1{padding-top:10px;}
+	
+	
+	.owl-carousel {
+    margin-top: 59px;
+}
+	.owl-carousel img{height:200px;width:300px}
+.fa-stack-1x, .fa-stack-2x {
+    position: absolute;
+    left: 0px;
+    width: 100%;
+    text-align: center;
+    top: -50px!important;
+}
+.sliderFeature{background: #00000038;height:390px;}
+	
+			.pic1 img{width:100%;height:340px;transition:1s ease}
+.pic2 img{width:100%;height:340px;transition:1s ease}
+.pic3 img{width:100%;height:340px;transition:1s ease}
+	
+	
+	.allpicturemaincontainer {
+    width: 550px;
+    margin-left: 70px;
+    margin-top: 25px;
+}
+	.allpicturecontainer{width:100% !important;position:relative !important;transition:1s ease}
+.pic1{position: !important;transition:1s ease}
+.pic2{position:absolute !important;transition:1s ease}
+.pic3{position:absolute !important;transition:1s ease}
+	
+	
+	
+	
+	
+	.contactButton {
+    padding: 7px 18px !important;
+    color: #000 !important;
+    font-family: century gothic;
+    background-color: #f99f1c !important;
+    border-color: #f99f1c !important;
+    font-weight: 700;
+    font-size: 11px;
+    border-radius: 15px;
+    letter-spacing: 0.6px;transition:1s ease;margin-top:10px
+}
+
+.contactButton:hover{background:black!important;border-color:black!important;color:white!important;text-decoration:none !important}
+.contactusbtn{margin-top:20px}
+	
+	
+	
+	
+	#cssmenu .button .fa-bars {border-bottom:none;
+border-top:none;
+border-right:none;
+border-left:none}
+	
+	
+	
+	.featuredText2{opacity:0}
+	.menubtn123{display:block}
+	
+	.NoticeWrapper marquee {
+    margin-top: 0px;
+    background: black;
+    /* height: 20px; */
+    font-size: 12px;
+    color: white;
+}
+.NoticeWrapper {
+    width: 490px;
+    margin-top: 0px;
+}
+	
+}
+
+
+@media screen and (min-width: 767px) {
+		footer {
+    height: 60px;
+    background: #ddd;
+    border-top: 1px solid #00000042;
+}
+
+
+.developercredit{text-align:center;padding-top:13px;padding-bottom: 0;margin-bottom: 0;}
+.helplinenumber{text-align:center;padding-top: 0px;font-size: 12px;}
+
+	.semifooter{height:200px;background:#fff}
+#telephn{transform:rotate(90deg)}
+
+.semifooterbox{background:#fff; margin-top: 20px; margin-bottom: 20px;}
+.semifooterbox1{background:#fff; margin-top: 20px; margin-bottom: 20px;border-right:1px solid #00000042}
+.semifooterbox2{background:#fff; margin-top: 20px; margin-bottom: 20px;border-right:1px solid #00000042}
+.semifootericon{
+    text-align: center;
+   
+    font-size: 28px;
+    padding-top: 20px;
+    }
+.semifootertext{
+    font-size: 22px;
+    text-align: center;
+    font-family: aria;
+    padding-top: 28px;
+    letter-spacing: 4px;
+    padding-bottom: 33px;
+}
+
+
+	
+	.facilites_text{text-align:center;padding-bottom:10px}
+.facilitesicon{text-align:center;font-size:44px;padding-top:10px;}
+.facilitesBox{background: #e6e6e6;margin-bottom: 25px;margin-top: 25px;border: 1px solid #ddd;}
+	
+	
+	.owl-carousel img{height:200px;width:300px}
+.fa-stack-1x, .fa-stack-2x {
+    position: absolute;
+    left: 0px;
+    width: 100%;
+    text-align: center;
+    top: -50px!important;
+}
+	.sliderFeature{background: #00000038;height:390px;}
+	
+			.pic1 img{width:100%;height:340px;transition:1s ease}
+.pic2 img{width:100%;height:340px;transition:1s ease}
+.pic3 img{width:100%;height:340px;transition:1s ease}
+	
+	
+	.allpicturemaincontainer {
+    width: 550px;
+    margin-left: 70px;
+    margin-top: 25px;
+}
+	
+	
+	
+	
+	
+	
+	.contactButton {
+    padding: 8px 20px !important;
+    color: #000 !important;
+    font-family: century gothic;
+    background-color: #f99f1c !important;
+    border-color: #f99f1c !important;
+    font-weight: 700;
+    font-size: 13px;
+    border-radius: 15px;
+    letter-spacing: 0.6px;transition:1s ease;margin-top:10px
+}
+
+.contactButton:hover{background:black!important;border-color:black!important;color:white!important;text-decoration:none !important}
+.contactusbtn{margin-top:20px}
+	
+	#cssmenu .button .fa-bars {border-bottom:none;
+border-top:none;
+border-right:none;
+border-left:none}
+	
+	
+	
+	
+	
+	
+	.featuredText2{opacity:0}
+	.menubtn123{display:none}
+	
+		.featuredSection{
+	
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(Swssc.jpg);
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	min-height:450px
+	
+	
+}
+	
+	
+		.featuredText h1{font-size:42px;color:#fff;font-weight:600}
+
+.featuredText{width:675px;margin-top:125px;background: transparent;}
+	
+	
+	
+.NoticeWrapper marquee {
+    margin-top: 2px;
+    background: black;
+    /* height: 20px; */
+    font-size: 14px;
+    color: white;
+}
+.NoticeWrapper {
+    width: 673px;margin-top:0px
+}	
+	
+	
+	
+		.socialadressnavicon {
+    background: transparent;
+    margin-top: -20px;
+    margin-left: 315px;
+}
+
+.socialadressnavicon i {
+    margin-right: 10px;
+    font-size: 15px;
+    color: #00213C;
+    display: inline;
+}
+	
+	
+	
+	
+	.schooltitle {width:520px;display: inline-block;margin-top:30px}
+		.schooltitle h4{
+	font-size:13px;
+	letter-spacing:0.1px;
+	padding-bottom: 0;
+	margin-bottom: 0;
+}
+
+
+
+	.schooltitle h5 {
+    font-size: 14px;
+    letter-spacing: 0.1px;
+    margin-top: 3px;
+    margin-bottom: 0px;
+}
+
+	
+	
+	.socialadressnav {
+    font-size: 10px;
+    margin-left: 0;
+}
+	.schooltitle h1{
+	font-size:16px;
+	letter-spacing:0.1px;
+	margin-bottom: 0px;
+}
+
+}
+@media screen and (min-width: 768px) {
+		
+		footer {
+    height: 60px;
+    background: #ddd;
+    border-top: 1px solid #00000042;
+    margin-top: 0;
+}
+
+
+.developercredit{text-align:center;padding-top:13px;padding-bottom: 0;margin-bottom: 0;}
+.helplinenumber{text-align:center;padding-top: 0px;font-size: 12px;}
+		
+		
+		
+		
+	.semifooter{height:200px;background:#fff}
+#telephn{transform:rotate(90deg)}
+
+.semifooterbox{background:#fff; margin-top: 20px; margin-bottom: 20px;}
+.semifooterbox1{background:#fff; margin-top: 20px; margin-bottom: 20px;border-right:1px solid #00000042}
+.semifooterbox2{background:#fff; margin-top: 20px; margin-bottom: 20px;border-right:1px solid #00000042}
+.semifootericon{
+    text-align: center;
+   
+    font-size: 28px;
+    padding-top: 20px;
+    }
+.semifootertext{
+    font-size: 12px;
+    text-align: center;
+    font-family: aria;
+    padding-top: 28px;
+    letter-spacing: 4px;
+    padding-bottom: 33px;
+}
+
+
+	
+	.facilitesSection{background: #F5F7FA;height: 500px;}
+.facilitesTitle {
+   
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+.facilitesTitle h1{padding-top:10px;}
+	
+	
+	.sliderFeature{background: #00000038;height:390px;}
+	
+			.pic1 img{width:100%;height:340px;transition:1s ease}
+.pic2 img{width:100%;height:340px;transition:1s ease}
+.pic3 img{width:100%;height:340px;transition:1s ease}
+	
+	
+	.allpicturemaincontainer {
+    width: 550px;
+    margin-left: 70px;
+    margin-top: 25px;
+}
+	
+	
+}
+
+
+@media screen and (min-width: 991px) {	
+
+
+
+footer {
+    height: 60px;
+    background: #ddd;
+    border-top: 1px solid #00000042;
+}
+
+
+.developercredit{text-align:center;padding-top:13px;padding-bottom: 0;margin-bottom: 0;}
+.helplinenumber{text-align:center;padding-top: 0px;font-size: 12px;}
+
+
+
+	.semifooter{height:200px;background:#fff}
+#telephn{transform:rotate(90deg)}
+
+.semifooterbox{background:#fff; margin-top: 20px; margin-bottom: 20px;}
+.semifooterbox1{background:#fff; margin-top: 20px; margin-bottom: 20px;border-right:1px solid #00000042}
+.semifooterbox2{background:#fff; margin-top: 20px; margin-bottom: 20px;border-right:1px solid #00000042}
+.semifootericon{
+    text-align: center;
+   
+    font-size: 28px;
+    padding-top: 20px;
+    }
+.semifootertext{
+    font-size: 19px;
+    text-align: center;
+    font-family: aria;
+    padding-top: 28px;
+    letter-spacing: 4px;
+    padding-bottom: 33px;
+}
+
+
+	
+	.facilites_text{text-align:center;padding-bottom:10px}
+.facilitesicon{text-align:center;font-size:44px;padding-top:10px;}
+.facilitesBox{margin-bottom: 25px;background: #e6e6e6;border: 1px solid #ddd;margin-top: 25px;}
+	
+	
+	.facilitesSection{background: #F5F7FA;height: 420px;}
+.facilitesTitle {
+   
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+.facilitesTitle h1{padding-top:10px;}
+	
+	
+	.sliderFeature{background: #00000038;height:485px;}
+	
+		.pic1 img{width:100%;height:435px;transition:1s ease}
+.pic2 img{width:100%;height:435px;transition:1s ease}
+.pic3 img{width:100%;height:435px;transition:1s ease}
+	
+	
+	.allpicturemaincontainer {
+    width: 810px;
+    margin-left: 70px;
+    margin-top: 25px;
+}
+	
+	
+	.contactButton {
+    padding: 8px 20px !important;
+    color: #000 !important;
+    font-family: century gothic;
+    background-color: #f99f1c !important;
+    border-color: #f99f1c !important;
+    font-weight: 700;
+    font-size: 14px;
+    border-radius: 15px;
+    letter-spacing: 0.6px;transition:1s ease;margin-top:10px
+}
+
+.contactButton:hover{background:black!important;border-color:black!important;color:white!important;text-decoration:none !important}
+.contactusbtn{margin-top:20px}
+	
+	
+	#cssmenu .button .fa-bars {border-bottom:none;
+border-top:none;
+border-right:none;
+border-left:none}
+	
+	
+	
+	.menubtn123{display:none}
+	.featuredSection{
+	
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(Swssc.jpg);
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	min-height:550px
+	
+	
+}
+	
+	
+	
+	.featuredText h1{font-size:47px;color:#fff;font-weight:600}
+
+.featuredText{width:790px;margin-top:125px;background: transparent;}
+	
+	
+	
+.NoticeWrapper marquee {
+    margin-top: 6px;
+    background: black;
+    /* height: 20px; */
+    font-size: 14px;
+    color: white;
+}
+.NoticeWrapper {
+    width: 896px;margin-top:0px
+}	
+
+
+
+
+	.socialadressnavicon {
+    background: transparent;
+    margin-top: -20px;
+    margin-left: 315px;
+}
+
+.socialadressnavicon i {
+    margin-right: 10px;
+    font-size: 15px;
+    color: #00213C;
+    display: inline;
+}
+	
+	
+	
+	
+	
+	.schooltitle {width:520px;display: inline-block;margin-top:28px}
+	.schooltitle h4{
+	font-size:13px;
+	letter-spacing:0.1px;
+	padding-bottom: 0;
+	margin-bottom: 0;
+}
+
+
+	.schooltitle h1{
+	font-size:16px;
+	letter-spacing:0.1px;
+	margin-bottom: 0px;
+}
+
+.schooltitle h5 {
+    font-size: 14px;
+    letter-spacing: 0.1px;
+    margin-top: 3px;
+    margin-bottom: 0px;
+}
+
+
+	
+	#cssmenu > ul > li > a {
+    padding: 9px 48px;
+    font-size: 11px;
+    letter-spacing: 0.7px;
+    text-decoration: none;
+    color: #333;
+    font-weight: 500;
+    margin-left: -19px;
+    margin-right: 0px;
+    border: 2px solid black;
+    text-transform: uppercase;
+	margin-top:10px
+}
+.socialadressnav{font-size:13px;margin-left: 0px;}
+
+#cssmenu ul {
+    float: none;
+    text-align: center;
+    display: inline-blockx;
+    margin-bottom: 0;
+    background: transparent;
+    height: 40px;
+    margin-left: 10px;
+    margin-top: 8px;
+    padding: 0;
+}
+}
+
+
+@media screen and (min-width: 1000px) {
+		
+		
+		footer {
+    height: 60px;
+    background: #ddd;
+    border-top: 1px solid #00000042;
+}
+
+
+.developercredit{text-align:center;padding-top:13px;padding-bottom: 0;margin-bottom: 0;}
+.helplinenumber{text-align:center;padding-top: 0px;font-size: 12px;}
+		
+		
+		
+		
+		
+		
+	.semifooter{height: 210px;background:#fff;}
+#telephn{transform:rotate(90deg)}
+
+.semifooterbox{background:#fff; margin-top: 20px; margin-bottom: 20px;}
+.semifooterbox1{background:#fff; margin-top: 20px; margin-bottom: 20px;border-right:1px solid #00000042}
+.semifooterbox2{background:#fff; margin-top: 20px; margin-bottom: 20px;border-right:1px solid #00000042}
+.semifootericon{
+    text-align: center;
+   
+    font-size: 28px;
+    padding-top: 20px;
+    }
+.semifootertext{
+    font-size: 19px;
+    text-align: center;
+    font-family: aria;
+    padding-top: 28px;
+    letter-spacing: 4px;
+    padding-bottom: 33px;
+}
+
+
+	
+	.facilitesSection{background: #F5F7FA;height: 420px;}
+.facilitesTitle {
+   
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+.facilitesTitle h1{padding-top:10px;}
+	
+	
+	.sliderFeature{background: #00000038;height:485px;}
+		.pic1 img{width:100%;height:435px;transition:1s ease}
+.pic2 img{width:100%;height:435px;transition:1s ease}
+.pic3 img{width:100%;height:435px;transition:1s ease}
+	
+	
+	.allpicturemaincontainer {
+    width: 810px;
+    margin-left: 70px;
+    margin-top: 25px;
+}
+	
+	
+	#cssmenu .button .fa-bars {border-bottom:none;
+border-top:none;
+border-right:none;
+border-left:none}
+	
+	
+	
+	#cssmenu ul {
+   
+    display: inline-block!important;}
+	
+	
+}
+
+
+
+@media screen and (min-width: 1200px) {
+	
+	footer {
+    height: 60px;
+    background: #ddd;
+    border-top: 1px solid #00000042;
+    margin-top: 0;
+}
+
+
+.developercredit{text-align:center;padding-top:13px;padding-bottom: 0;margin-bottom: 0;}
+.helplinenumber{text-align:center;padding-top: 0px;font-size: 12px;}
+	
+	
+	
+	
+	
+	.semifooter{height: 210px;background: #fff;}
+#telephn{transform:rotate(90deg)}
+
+.semifooterbox{background:#fff; margin-top: 20px; margin-bottom: 20px;}
+.semifooterbox1{background:#fff; margin-top: 20px; margin-bottom: 20px;border-right:1px solid #00000042}
+.semifooterbox2{background: #fff;margin-top: 20px;margin-bottom: 20px;border-right:1px solid #00000042;}
+.semifootericon{
+    text-align: center;
+   
+    font-size: 28px;
+    padding-top: 20px;
+    }
+.semifootertext{
+    font-size: 22px;
+    text-align: center;
+    font-family: aria;
+    padding-top: 28px;
+    letter-spacing: 4px;
+    padding-bottom: 33px;
+}
+
+
+	
+	
+	
+	.facilites_text{text-align:center;padding-bottom:10px}
+.facilitesicon{text-align:center;font-size:44px;padding-top:10px;}
+.facilitesBox{background: #e6e6e6;margin-bottom: 25px;margin-top: 25px;border: 1px solid #ddd;}
+	
+	.facilitesSection{background: #F5F7FA;height: 425px;}
+.facilitesTitle {
+   
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+.facilitesTitle h1{padding-top:10px;}
+	
+	
+	
+	.sliderFeature{background: #00000038;height:550px;}
+	
+	.pic1 img{width:100%;height:500px;transition:1s ease}
+.pic2 img{width:100%;height:500px;transition:1s ease}
+.pic3 img{width:100%;height:500px;transition:1s ease}
+	
+	
+	.allpicturemaincontainer {
+    width: 1000px;
+    margin-left: 70px;
+    margin-top: 25px;
+}
+	
+	
+	
+	.contactButton {
+    padding: 8px 20px !important;
+    color: #000 !important;
+    font-family: century gothic;
+    background-color: #f99f1c !important;
+    border-color: #f99f1c !important;
+    font-weight: 700;
+    font-size: 15px;
+    border-radius: 15px;
+    letter-spacing: 0.6px;transition:1s ease;margin-top:10px
+}
+
+.contactButton:hover{background:black!important;border-color:black!important;color:white!important;text-decoration:none !important}
+.contactusbtn{margin-top:20px}
+	
+	
+	
+	
+	
+	
+	
+	#cssmenu .button .fa-bars {border-bottom:none;
+border-top:none;
+border-right:none;
+border-left:none}
+	
+	
+	
+	.menubtn123{display:none}
+	
+	.featuredSection{
+	
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(Swssc.jpg);
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	min-height:600px
+	
+	
+}
+	
+	
+	.featuredText h1{font-size:50px;color:#fff;font-weight:600}
+
+.featuredText{width:810px;margin-top:125px;background: transparent;}
+	
+	
+	
+	.NoticeWrapper marquee{
+	
+margin-top:20px;
+	
+background: black;
+	
+font-size:16px;
+	
+color: white;
+}
+.NoticeWrapper{width:1078px;margin-top:0px}
+	
+	
+	#cssmenu ul {
+    float: none;
+    text-align: center;
+    display: inline-block;
+    margin-bottom: 0;
+    background: transparent;
+    height: 40px;
+    margin-left: 10px;
+    margin-top: 30px;
+    padding: 0;
+}
+	
+	
+	
+	.socialadressnavicon{
+    background: transparent;
+    margin-top: 18px;
+    margin-left: 286px;
+}
+.socialadressnavicon i{
+    margin-right: 10px;
+    font-size: 18px;
+    color: #00213C;
+}
+
+
+
+
+	.schooltitle h1{
+	font-size:25px;
+	letter-spacing:0.1px;
+	margin-bottom: 0px;
+}
+.schooltitle h5{
+	font-size:16px;
+	letter-spacing:0.1px;
+	margin-bottom: 0px;
+}
+.schooltitle h4{
+	font-size:15px;
+	letter-spacing:0.1px;
+	padding-bottom: 0;
+	margin-bottom: 0;
+}
+.schooltitle {width:520px;display: inline-block;margin-top:25px}
+
+   #cssmenu > ul > li > a {margin-top:0px;padding: 9px 57px;font-size: 14px;letter-spacing: 0.7px;text-decoration: none;color: #333;font-weight: 500;margin-left: -19px;margin-right: 0px;border: 2px solid black;text-transform: uppercase;}
+.socialadressnav{font-size:13px;margin-left: 105px;}
+}
+
+
+
